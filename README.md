@@ -1,10 +1,46 @@
 # Clip-Stack
 
-###Deprecated
+## Deprecated
 
-This project is deprecated because of personal reason. 
+This project is deprecated and will not update anymore. 
 
-这个项目由于一些私人原因已经停止更新。
+### Why?
+
+Clip Stack was the first work when I started learning Android. I chose open source for my past trust and gratitude to the open source community, but with its little fame, what happened next was unexpected.
+
+There are endless open source thieves, simply change the package name, add advertising, put it on Play Store to make money. I reported too much, but it didn’t help.
+
+Fortunately, with the addition of the app target API >= 26 requirement on Google Play, the source code which target 22 can no longer be easily compiled to publish to store.
+
+Therefore, many open source robbers began to contact and attempt to coerce my synchronization code through emails, comments, and so on. After being pointed out and denounced by me, they actually swayed the content of seditiousness in some open source communities, and the people who did not know the truth came to get bad review.
+
+### Status Quo
+
+I realized that open source is not a good choice for applications that are intended for the average user rather than the programmer. For public-facing applications, open source attracts thieves and sprayers much more than people who contribute code or translators.
+
+Compared to this source code, the version on Google Play upgraded the target API due to Google requirements, removed the floating ball and other features.
+
+This app will not continue to update without significant compatibility issues (regardless of source code or Google Play).
+
+## 此项目已停止更新
+
+### 为什么？
+
+剪纸堆是我初学 Android 时的第一个作品，出于既往的信任和对开源社区的感恩，我选择了开源，但随着它小有名气，随后发生的事情让人始料未及。
+
+不断有无穷无尽的开源小偷，简简单单的改个包名，再加上广告，就放到 Play 上骗钱骗下载。举报到让人心力交瘁。
+
+幸运的是，随着 Google Play 新增了应用 target API >= 26 的要求，这份 target 22 的源码不再能简简单单编译一下就上线骗钱了。
+
+因此，很多开源强盗开始通过邮件、评论等方式联系并企图胁迫我同步代码。被我指出并痛斥后，他们竟然在某些开源社群布煽动性的内容，裹挟部分不明真相的群众前来差评。
+
+### 现状
+
+我意识到，对于直接面向普通用户而非程序员的应用程序来说，开源不是一个合适的选择。对于面向大众的应用程序，开源吸引来的小偷和喷子，比贡献代码或翻译的人多得多。
+
+相比此源码，Google Play 上的版本由于 Google 要求升级了 target API，移除了悬浮球等功能，其他无变更。
+
+如无重大兼容性问题，此 App 也不会继续更新（无论源码或 Google Play）。
 
 ### A tiny clipboard history manager app.
 
